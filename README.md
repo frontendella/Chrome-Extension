@@ -8,7 +8,8 @@ https://user-images.githubusercontent.com/82247833/194799242-0cf5a714-0291-43f1-
 
 ## Description
 
-Extension for copy or modify with Chrome employing jS and manifest.json
+Chrome Extension for saving links and tabs to LocalStorage
+
 ### HTML
 
 * input
