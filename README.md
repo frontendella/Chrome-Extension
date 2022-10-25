@@ -1,4 +1,4 @@
-# Chrome Extension
+# Chrome Extension 
 
 
 [<img width="421" alt="Chrome extension" src="https://user-images.githubusercontent.com/82247833/194799240-77ac390a-9b3a-48f3-a6c4-a9df03f0f1a7.png">](https://frontendella.github.io/Chrome-Extension/)
